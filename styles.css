@@ -3,8 +3,26 @@ body {
   color: chocolate;
 }
 section {
-  background-color: antiquewhite;
+  background-color: cornsilk;
+  width: 750px;
+  border: antiquewhite solid;
 }
 .cat {
-  background-color: aliceblue;
+ text-decoration: underline;
+  width: 250px;
+  border: dotted salmon;
+}
+h1 {
+  border: solid salmon;
+  width: 200px;
+  background-color: blanchedalmond;
+}
+h2 {
+  background-color: beige
+  width: 120px;
+  text-align: center;
+}
+h3 {
+  border: dotted salmon;
+  width: 220px;
 }
