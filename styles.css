@@ -29,3 +29,7 @@ h3 {
 fieldset{
   width: 250px;
 }
+img{
+  border: solid wheat 5px;
+  border-radius: 20px;
+}
