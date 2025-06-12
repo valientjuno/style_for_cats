@@ -8,7 +8,7 @@ section {
   border: antiquewhite solid;
 }
 .cat {
- text-decoration: underline;
+  text-decoration: underline;
   width: 250px;
   border: dotted salmon;
 }
@@ -18,7 +18,7 @@ h1 {
   background-color: blanchedalmond;
 }
 h2 {
-  background-color: beige
+  background-color: beige;
   width: 120px;
   text-align: center;
 }
@@ -26,10 +26,10 @@ h3 {
   border: dotted salmon;
   width: 220px;
 }
-fieldset{
+fieldset {
   width: 250px;
 }
-img{
+img {
   border: solid wheat 5px;
   border-radius: 20px;
 }
